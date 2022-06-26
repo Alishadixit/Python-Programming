@@ -5,12 +5,12 @@ c=a+b
 print(c)
 #subbtract two numbers
 c=a-b
-print(c)
+print("c:")
 #divide two number
 c=a/b
 print(c)
 c=a//b
-print(c)
+print("ans",c)
 c=a%b
 print(c)
 #use exponent function

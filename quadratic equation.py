@@ -9,8 +9,8 @@ if disc>0:
     print("roots are real and different")
     print(sol1,sol2)
 elif disc==0:
-    print ("both roots are equal")
-    print(sol1,sol2)
+    print ("both roots are real")
+    print(sol1, sol2, sep="and")
 else:
-    print("roots are complex")
-    print(sol1,sol2,sep="and")
+  print("roots are complex")
+  print(sol1,sol2,sep="and")
